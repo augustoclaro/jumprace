@@ -1,0 +1,27 @@
+{
+  "name": "gamifyjs",
+  "description": "Simple javascript game engine to simplify creating games",
+  "main": "dist/gamify.js",
+  "authors": [
+    "Augusto Claro"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/augustoclaro/gamifyjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "b03d35a746",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b03d35a7463980c04dca3d3255f0d39ffa381dba"
+  },
+  "_source": "https://github.com/augustoclaro/gamifyjs.git",
+  "_target": "*",
+  "_originalSource": "gamifyjs",
+  "_direct": true
+}

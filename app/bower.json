@@ -1,0 +1,20 @@
+{
+  "name": "jumprace",
+  "description": "Little game to practice game dev.",
+  "main": "index.js",
+  "authors": [
+    "Augusto Claro <augustoclaro1@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/augustoclaro/jumprace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gamifyjs": "*"
+  }
+}
